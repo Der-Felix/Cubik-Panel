@@ -34,3 +34,10 @@ Getestet auf Debian 12!
 
 
 ![Screenshot 2025-06-26 234606](https://github.com/user-attachments/assets/13058598-7fec-479c-bc4a-d15d136f8351)
+
+
+
+![Screenshot 2025-06-26 235754](https://github.com/user-attachments/assets/d1d5f9ce-0e66-4789-88ca-eceb4b12fafd)
+
+
+![Screenshot 2025-06-26 235808](https://github.com/user-attachments/assets/fe837ba8-b4cc-4a18-b336-1fb3c47cb5d1)
